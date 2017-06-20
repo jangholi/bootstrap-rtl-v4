@@ -1,5 +1,5 @@
 {
-  "name": "bootsrap-rtl-v4",
+  "name": "bootstrap-rtl-v4",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "version": "1.1.0",
   "keywords": [
@@ -62,7 +62,7 @@
   "main": "dist/js/bootstrap",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jangholi/boostrap-rtl-v4.git"
+    "url": "git@github.com:jangholi/bootstrap-rtl-v4.git"
   },
   "bugs": {
     "url": "https://github.com/twbs/bootstrap/issues"
